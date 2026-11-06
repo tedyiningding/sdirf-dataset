@@ -28,17 +28,12 @@ layout: default
   <a href="https://github.com/SenseRoboticsLab/estimating-fog-parameters">
     <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repo-black">
   </a>
-  <a href="">
+  <a href="https://researchportal.hw.ac.uk/en/datasets/sdirf-stereo-driving-in-real-fog/">
     <img alt="Pure Data" src="https://img.shields.io/badge/Pure-Data-silver">
   </a>
 </div>
 
 <div style="margin-top: 24px;"></div>
-
-To-dos:
-- [ ] Add Pure link where the dataset can be donwloaded from: the index page and the download subpage
-
----
 
 We present the **S**tereo **D**riving **I**n **R**eal **F**og (SDIRF) dataset, which we created to address the gap in autonomous driving research that most existing datasets place limited emphasis on foggy scenarios.
 
@@ -65,7 +60,7 @@ Our algorithm
 Extensive experiments we conducted using both synthetic foggy data and real foggy sequences from SDIRF demonstrate the superiority of the proposed algorithm over prior methods.
 
 # Citation
-Our work was accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence* in October 2025.
+Our work was accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence* in October 2025, and published in March 2026.
 
 Please consider citing it if you find either the SDIRF dataset or our fog parameter estimation method useful for your research.
 <div class="citation-box">
